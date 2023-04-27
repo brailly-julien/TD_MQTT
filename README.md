@@ -7,7 +7,7 @@ Un serveur Mosquitto doit être en cours d'exécution à l'adresse par défaut :
 Node.js doit être installé sur votre machine.
 Installation
 1 - Clonez le dépôt ou téléchargez le code source.
-    git clone https://github.com/votrecompte/votreprojet.git
+    git clone https://github.com/brailly-julien/TD_MQTT
 
 2 - Accédez au répertoire du projet.
     cd TD_MQTT
